@@ -1,6 +1,6 @@
 ### Hi there 👋, Md. Mominul Islam
 #### Web Developer
-![Web Developer](https://www.canva.com/design/DAFZOdziTDk/688XjTDZ3MmNoWt06Ic0BQ/edit?utm_content=DAFZOdziTDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Web Developer](https://www.facebook.com/photo/?fbid=1239600686940809&set=a.386391692261717)
 
 I am a web developer working for 2 years. Fiverr, Upwork, Linkedin etc.
 
@@ -27,4 +27,4 @@ Skills:  JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=freelancernurbd)  
 
-![Profile views](https://gpvc.arturio.dev/freelancernurbd)  
+![Profile views](https://gpvc.arturio.dev/freelancernurbd)   
